@@ -1,4 +1,6 @@
 **📊 Amazon Sales Data Analysis in SQL**
+
+
 📌 Project Overview
 This project involves analyzing Amazon sales data using SQL queries. It includes querying product details, calculating statistics, using advanced SQL functions, and creating a PowerPoint report. The dataset contains product information such as ratings, prices, reviews, and categories.
 
