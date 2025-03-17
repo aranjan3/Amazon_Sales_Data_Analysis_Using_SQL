@@ -10,6 +10,8 @@ amazon.csv – The dataset used for analysis.
 amazon_sales_analysis.pdf – A document with queries and explanations.
 amazon_sales_ppt.pptx – A PowerPoint report summarizing key findings.
 README.md – This file, explaining the project.
+
+
 📜 SQL Analysis Tasks
 This project covers:
 ✅ Listing products with details.
@@ -25,6 +27,8 @@ This project covers:
 🛠️ Technologies Used
 SQL (MySQL)
 Microsoft Excel / Google Sheets (for dataset review)
+
+
 📌 How to Use
 Import amazon.csv into your database.
 Run amazon_sales_analysis.sql in your SQL environment.
