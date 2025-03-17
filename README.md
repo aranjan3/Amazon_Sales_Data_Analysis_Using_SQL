@@ -34,5 +34,7 @@ Import amazon.csv into your database.
 Run amazon_sales_analysis.sql in your SQL environment.
 Review the results and insights.
 Check the PowerPoint and PDF for a summary of findings.
+
+
 🌟 Credits
 Apoorv Ranjan
