@@ -13,6 +13,7 @@ README.md – This file, explaining the project.
 
 
 📜 SQL Analysis Tasks
+
 This project covers:
 ✅ Listing products with details.
 ✅ Filtering products based on ratings and categories.
@@ -25,11 +26,13 @@ This project covers:
 ✅ Finding category-based insights.
 
 🛠️ Technologies Used
+
 SQL (MySQL)
 Microsoft Excel / Google Sheets (for dataset review)
 
 
 📌 How to Use
+
 Import amazon.csv into your database.
 Run amazon_sales_analysis.sql in your SQL environment.
 Review the results and insights.
@@ -37,4 +40,5 @@ Check the PowerPoint and PDF for a summary of findings.
 
 
 🌟 Credits
+
 Apoorv Ranjan
